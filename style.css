@@ -1,0 +1,21 @@
+
+td 
+{
+        font-family: Arial, Helvetica, sans-serif;
+}
+th
+{
+    border: 2px solid white;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+td
+{
+    cursor: cell;
+}
